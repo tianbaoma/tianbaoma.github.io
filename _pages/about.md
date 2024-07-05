@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student from [College of Computing and Informatics](https://cci.charlotte.edu/), [University of North Carolina at Charlotte](https://www.charlotte.edu/). My research interest includes <u>Differential Privacy</u> and <u>Medical Image Analysis</u>.
 
-I am very fortunate to be advised by [Prof. Liyue Fan](https://webpages.charlotte.edu/lfan4/index.html). Before that, I received my Bachelar's degree from [Beijing University of Technology](https://english.bjut.edu.cn/)
+I am very fortunate to be advised by [Prof. Liyue Fan](https://webpages.charlotte.edu/lfan4/index.html). Before that, I received my Bachelar's degree from [Beijing University of Technology](https://english.bjut.edu.cn/).
 
 I like fitness, swimming and cycling, feel free to play sports with me.
 
