@@ -30,19 +30,18 @@ I like fitness, swimming and cycling, feel free to play sports with me.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC 2024</div><img src='images/article1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Anatomy-guided Weakly Supervised Breast Lesion Segmentation Fusing Contour and Semantic Information](https://ieeexplore.ieee.org/abstract/document/10394472)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Xiaoling Liu, Jianqiang Li, Linna Zhao, Zhaolei Liu, Chujie Zhu, **Tianbao Ma**, Xi Xu, Qing Zhao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We present a weakly supervised framework merging complementary contour and semantic information for early lesion segmentation in BUS images.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- To be continue...
 
 # 🎖 Honors and Awards
 - *2023.08*, Second Prize, 25th China Robot and Artificial Intelligence Competition.
